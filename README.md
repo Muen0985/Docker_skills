@@ -8,8 +8,8 @@
 * 建立與運行容器 (docker run)
 * 使用 Dockerfile 製作自訂映像檔 (docker build)
 2. 容器化應用
-* 部署簡單的 Node.js 應用
-* 在容器中啟動 Nginx 網頁伺服器
+* 部署簡單的 python flask 應用
+* 部屬flask、redis架設網站和記錄資訊
 3. 持久化與網路設定
 * 建立具備資料持久化的容器 (Volumes)
 * 配置 Docker 網路 (Bridge)
